@@ -29,7 +29,7 @@
 							<manifest>
 								<addClasspath>true</addClasspath>
 								<classpathPrefix>lib/</classpathPrefix>
-								<mainClass>com.mtplus.eis.mainlauncher.MainLauncherMTPlus</mainClass>
+								<mainClass>primori.backend.runtime.RuntimeBoot</mainClass>
 							</manifest>
 						</archive>
 					</configuration>
